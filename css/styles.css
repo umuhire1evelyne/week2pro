@@ -1,0 +1,31 @@
+body{
+    background-color: burlywood;
+}
+.title{
+    text-align: center;
+    text-decoration-color: brown;
+    float: center;
+}
+table{
+    width:60%;
+}
+.card{
+    box-shadow: 5px 5px 5px 0 black;
+    max-width: 300px;
+    max-height: 700px;
+
+}
+.t{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+footer{
+    position:fixed;
+    background-color: rgb(133, 75, 9);
+    color:white;
+    left:0;
+    bottom:0;
+    width:100%;
+    text-align: center;
+}
