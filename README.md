@@ -16,7 +16,12 @@ $ visual studio code
 - internet
 
 ## Contact Information
-you may contact me at E-mail:umuhire1evelyne@gmail.com and phone-Number:0780313525
+you may contact me at E-mail:umuhire1evelyne@gmail.com and 
+phone-Number:0780313525
+
+## click below linnk to access my application
+
+(https://umuhire1evelyne.github.io/week2pro/)
 
 ## copyright and License information
 Copyright &copy;2018 by Agathe. All rights reserved
